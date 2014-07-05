@@ -10,9 +10,9 @@ Are you in your home directory? <br>
 What directory did you run that command in? <br>
 <blockquote> pwd will tell me </blockquote>
 
-To find the path with my gui:
+To find the path with my gui, I:
 <ol>
-<li> I clicked on the finder in the toolbar </li>
+<li> clicked on the finder in the toolbar </li>
 <li> double-clicked on the harddrive icon </li>
 <li> double-clicked the Users folder icon </li>
 <li> double-click the raj (Home) folder icon </li>
