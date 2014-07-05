@@ -1,5 +1,5 @@
-What directory are you in?
-	pwd: /Users/raj/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_2
+What directory are you in? <br>
+<blockquote> pwd: /Users/raj/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_2 </blockquote>
 
 Are you in the class directory?
 	pwd: yes, at least a sub-directory of the class directory
