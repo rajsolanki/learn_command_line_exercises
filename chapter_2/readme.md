@@ -11,4 +11,12 @@ What directory did you run that command in? <br>
 <blockquote> pwd will tell me </blockquote>
 
 To find the path with my gui:
-<ol>I clicked on the finder in the toolbar, double-clicked on the harddrive icon, double-clicked the Users folder icon, double-click the raj (Home) folder icon, double-clicked the davinci_coders_t2_2014 folder icon, double-clicked the learn_command_line_exercises folder icon, and finally double-clicked the chapter_2 folder icon. </ol> 
+<ol>
+<li> I clicked on the finder in the toolbar </li>
+<li> double-clicked on the harddrive icon </li>
+<li> double-clicked the Users folder icon </li>
+<li> double-click the raj (Home) folder icon </li>
+<li> double-clicked the davinci_coders_t2_2014 folder icon </li> 
+<li> double-clicked the learn_command_line_exercises folder icon, and finally.. </li> 
+<li> double-clicked the chapter_2 folder icon. </li>
+</ol> 
