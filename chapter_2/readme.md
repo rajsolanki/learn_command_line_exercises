@@ -1,0 +1,13 @@
+What directory are you in?
+	pwd: /Users/raj/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_2
+
+Are you in the class directory?
+	pwd: yes, at least a sub-directory of the class directory
+
+Are you in your home directory?
+	pwd: no, in chapter_2 directory
+
+What directory did you run that command in?
+	pwd will tell me
+
+To find the path with my gui, I clicked on the finder in the toolbar, double-clicked on the harddrive icon, double-clicked the Users folder icon, double-click the raj (Home) folder icon, double-clicked the davinci_coders_t2_2014 folder icon, double-clicked the learn_command_line_exercises folder icon, and finally double-clicked the chapter_2 folder icon. 
