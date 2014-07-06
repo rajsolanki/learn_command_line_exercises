@@ -29,3 +29,9 @@ What files are in your home directory?
 </table>
 </ul>
 
+What's in slash temp? <br>
+> <ul>
+<li> ls </li>
+<li> stuff </li>
+</ul>
+
