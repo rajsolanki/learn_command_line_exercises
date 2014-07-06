@@ -70,3 +70,9 @@ Rajs-MacBook-Air:chapter_7 raj$ ls <br>
 README.md	temp <br>
 </blockquote>
 
+Can you remove the tmp directory?
+> rmdir temp
+
+Let's clear out your log directory.
+> rmdir log
+
