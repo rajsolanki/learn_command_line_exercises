@@ -31,9 +31,9 @@ cd to your Downloads directory, then find it with your GUI browser <br>
 Find another directory with your file browser, then cd to it. <br>
 <blockquote> cd ~/applications </blockquote>
 
->Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun" <br>
+Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun" <br>
 
-<blockquote> cd "I Have Fun" (when in temp directory) </blockquote>
+> cd "I Have Fun" (when in temp directory)
 
 
 
