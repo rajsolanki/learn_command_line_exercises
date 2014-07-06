@@ -1,4 +1,4 @@
-To create and remove 20 directories, this is what I did: <br>
+To create and remove 20 directories and to make a single path of 10 directories and remove them all, this is what I did: <br>
 
 <blockquote> 
 Rajs-MacBook-Air:chapter_7 raj$ mkdir -p 1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20 <br>
