@@ -35,5 +35,17 @@ Remember when you put quotes around a directory with spaces in it? You can do th
 
 > cd "I Have Fun" (when in temp directory)
 
+Can you cd into the temp directory? <br>
+> yes, cd ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_5/temp
 
+Why don't we go into the temp directory?
+> cd ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_5/temp
+
+Can you go to the slash temp directory?
+> ~/temp
+
+Can you go to the slash temp slash log directory?
+> ~/temp/log
+
+The .. argument to cd move you up one level in the tree of directories.
 
