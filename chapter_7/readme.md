@@ -1,6 +1,6 @@
 To create and remove 20 directories, this is what I did: <br>
 
->Rajs-MacBook-Air:chapter_7 raj$ mkdir -p 1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20
+<blockquote> Rajs-MacBook-Air:chapter_7 raj$ mkdir -p 1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20
 Rajs-MacBook-Air:chapter_7 raj$ ls
 1		README.md	temp
 Rajs-MacBook-Air:chapter_7 raj$ cd 1
@@ -67,4 +67,5 @@ Rajs-MacBook-Air:1 raj$ cd ..
 Rajs-MacBook-Air:chapter_7 raj$ rmdir 1
 Rajs-MacBook-Air:chapter_7 raj$ ls
 README.md	temp
-Rajs-MacBook-Air:chapter_7 raj$
+</blockquote>
+
