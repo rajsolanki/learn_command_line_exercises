@@ -1,4 +1,4 @@
-The -IR command gives more detailed information about what is in the directory. <br>
+The -IR command gives more detailed information about what is in the directory. The r shows the info in reverse order.<br>
 
 What does your log directory look like? <br>
 > <ul>
