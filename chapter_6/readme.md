@@ -1,4 +1,4 @@
-The -IR command gives more detailed information about what is in the directory. The r shows the info in reverse order.<br>
+The -lR command gives a long list format of sub-directories listed recursively .<br>
 
 What does your log directory look like? <br>
 > <ul>
@@ -7,12 +7,11 @@ What does your log directory look like? <br>
 </ul>
 
 Can you show me what files are in that directory? <br>
-> ls -- no files
+> ls ~/workspace/davinci_coders_t2_2014/log
 
 What files are in your home directory?
 > <ul>
-<li> cd </li>
-<li> ls </li>
+<li> ls ~</li>
 <table>
 	<tr> <td> Applications </td> 
 	<td> Music </td> </tr>
@@ -31,7 +30,7 @@ What files are in your home directory?
 
 What's in slash temp? <br>
 > <ul>
-<li> ls </li>
+<li> ls ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6/temp/ </li>
 <li> stuff </li>
 </ul>
 
